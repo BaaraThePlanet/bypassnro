@@ -93,7 +93,7 @@
 			<OOBE>
 				<ProtectYourPC>3</ProtectYourPC>
 				<HideEULAPage>true</HideEULAPage>
-				<HideOnlineAccountScreens>false</HideOnlineAccountScreens>
+				<HideOnlineAccountScreens>true</HideOnlineAccountScreens>
 			</OOBE>
 			<FirstLogonCommands>
 				<SynchronousCommand wcm:action="add">
@@ -285,3 +285,4 @@ $scripts = @(
 		</File>
 	</Extensions>
 </unattend>
+
