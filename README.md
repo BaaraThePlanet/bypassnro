@@ -1,6 +1,7 @@
 # bypassnro
 ```
-curl -L https://baaratheplanet.github.io/bypassnro/ -O
+curl -L raw.githubusercontent.com/BaaraThePlanet/bypassnro/main/bypass.cmd -o bypass.cmd
+
 
 ```
 
